@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Altaaf Ally</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=altaafally&label=Profile%20views&color=0e75b6&style=flat" alt="altaafally" /> </p>
 
 - 🔭 I’m currently working on **postgraduate research in computer science**
 
