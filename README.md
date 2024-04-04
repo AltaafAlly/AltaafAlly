@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Altaaf Ally</h1>
 
 
-- 🔭 I’m currently working on **Pratyk**
+- 🔭 I’m currently working on **postgraduate research in computer science**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Probablistic Graphical Models**
 
 - 📫 How to reach me **altaaf313@gmail.com**
 
