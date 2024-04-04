@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div id="header" align="center">
 </div>
@@ -25,3 +24,7 @@
 
 # 📊GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=AltaafAlly&theme=tokyonight&border_radius=8)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altaafally&show_icons=true&theme=dark&locale=en&layout=compact" alt="altaafally" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altaafally&show_icons=true&theme=dark&locale=en" alt="altaafally" /></p>
