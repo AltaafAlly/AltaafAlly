@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **postgraduate research in computer science at the University of Witwatersrand**
 
-- 🌱 I’m currently learning **AWS, SQL and Machine Learning**
+- 🌱 I’m currently learning **Natural Language Processing, Data Visualisation and Exploration and Application of Algorihtms**
 
 - 📫 How to reach me **altaaf313@gmail.com**
 
