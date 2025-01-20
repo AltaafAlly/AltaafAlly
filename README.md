@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaafally&label=Profile%20views&color=0e75b6&style=flat" alt="altaafally" /> </p>
 
-- 🔭 I’m currently working on **postgraduate research in computer science at the University of Witwatersrand**
+- 🔭 I’m currently working on **master's research in computer science at the University of Witwatersrand**
 
-- 🌱 I’m currently learning **Natural Language Processing, Data Visualisation and Exploration and Application of Algorihtms**
+- 🌱 I’m currently learning **Player Modelling in Video Games**
 
 - 📫 How to reach me **altaaf313@gmail.com**
 
