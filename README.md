@@ -9,8 +9,8 @@
 - 🔭 I’m currently pursuing my **Master's in Computer Science at the University of the Witwatersrand**, focusing on **AI and Machine Learning**.  
 - 🎮 My research explores **Player Modeling and Dynamic Difficulty Adjustment in Video Games using AI**.  
 - 💡 I have hands-on experience in **Data Science, Data Engineering, and AI-driven analytics**.  
-- 🌱 I’m currently learning **OML4Py** and advancing my skills in **Cloud Platforms and Data Pipelines**.  
-- 🏢 I’ve worked as a **Data Scientist Intern** and completed **vacation work as a Data Engineer** at **Wits Business Intelligence Services**.  
+- 🌱 I’m currently learning **SAP BO** and advancing my skills in **Financial Reporting**.  
+- 🏢 I'm working as a **Data Scientist Intern** and completed **vacation work as a Data Engineer** at **Wits Business Intelligence Services**.  
 - 📫 How to reach me: **altaaf313@gmail.com**  
 - ⚡ Fun fact: **I have a rare condition where my left foot is smaller than my right!**  
 
